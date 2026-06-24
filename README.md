@@ -1,4 +1,4 @@
-# Connect API Acceptance
+# Connect API
 ## Non-Disclosure Agreement Reminder
 As Outpayce S.A.U. is part from Amadeus IT Group S.A. all the agreements signed between Amadeus IT Group S.A. and your company are still applicable to all the content available in this [repository]().
 ## Introduction
